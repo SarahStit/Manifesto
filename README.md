@@ -1,4 +1,4 @@
-AOS a pour objectif de former des developpeurs a la pointe de leur domaine.  
+AOS a pour objectif de former des developpeurs à la pointe de leur domaine.  
 La valeur principale de l'école est la promotion sociale par le mérite,
 participant ainsi au rayonnement de la côte d'Ivoire.
 
