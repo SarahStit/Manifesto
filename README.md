@@ -40,7 +40,7 @@ leur vision et à leur ambition.
 Dans un désir de voir sont pays prendre les devants dans un domaine d'innovation, AOS est un pari fait sur les ressources
 propres aux ivoiriens pour que la côte d'Ivoire prouve au monde ce qu'elle peut
 apporter si on lui en donne les moyens.
-De ce fait, AOS est **reserve au ivoiriens**.
+De ce fait, AOS est exclusivement **reservée au ivoiriens**.
 
 ### P2P *(Pair a Pair)*
 AOS est fondamentalement Pair a Pair, la transmission de savoir est completement
@@ -48,29 +48,23 @@ fondée sur l'entre aide, **le sens du partage et le respect des autres** est un
 des valeurs necessaire au bon fonctionnement de notre structure.
 
 ### Debrouillard
-On ne va pas te tenir par la main, tu ne peu compter que sur tes pair et toi meme, AOS te donne un soutien technique et methodologique mais c'est a toi
-de definir tes objectif et de faire ton possible pour les atteindre.
+AOS te donne un soutien technique et methodologique mais c'est a toi
+de definir tes objectifs et de faire ton possible pour les atteindre.
 On compte sur une bonne dose **de maturite et d'autonomie** dans tes recherches.
 
 ### Motive
-Les places etant limitee, nous allons tout faire pour creer un millieu remplis
-de personnes **passionnee et motivee**.
-???
+Les places étant limitées, nous souhaitons favoriser les personnes **passionnées et motivées**.
+
 
 ### Rigoureux
-De part les liberte et responsabilite donnee a tous, il est indispensable de
+AOS laisse beaucoup de liberté as ses apprenants, il est donc indispensable de
 faire preuve d'une grande **exigence et rigeur**.
-Seul se niveau de qualite permet a la technologie d'accomplir les prouesse qui
+
 
 ------
-En dehors de ses valeurs, toutes diversite qui viendrais enrichir le cadre est
-bienvenue, AOS vas tout faire pour que votre imagination et personnalitee ne soit
-pas un boulet a essayer d'astreindre dans un cadre trop rigide mais une
-source de creativite et richesse pour l'imagination de tous.
+Toutes diversite qui viendrait enrichir le cadre est
+bienvenue,percues comme une source de creativite et richesse pour l'imagination de tous.
 
-Notre but n'est pas la creation d'eleves modeles, facile a evalué et bien
-obeissant mais d'un lieu d'echange et de reflection ou tout le monde peu briller
-a sa facon, sans conditions.
 
 
 
